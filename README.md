@@ -1,16 +1,32 @@
-# Todo List Project
+# Todo List Web App
 
-This is a JavaScript todo list application. You can add/remove todos and search for existing todos in the list. 
+### Udemy the Web Developer Bootcamp project.
 
-The UI is built using HTML, CSS and Bootstrap, the backend is all done using Javascript.
+> Todo list app created using javascript. New todo can be easily added to the list. Completed things to do can be removed with a single click. 
 
-Udemy the Web Developer Bootcamp project.
+
+From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
  
 
 
-Please click on the link below to view it.
+## Live Demo
 
-https://pirci.github.io/todo-list/
+Preview:  https://pirci.github.io/todo-list/
 
 
-![homepage](https://user-images.githubusercontent.com/43238947/117295769-8a05b000-ae74-11eb-8312-1e76d61cca58.png)
+![todo-list](demo.gif)
+
+
+## What I Learned:
+
+- Applied and understanding JavaScript's "Conditional" Statements
+- fadeOut function implemented
+- Function document.getElementById() implemented
+- Multiple types of CSS selectors
+
+
+
+## Possible Improvements
+
+- Could make the page layout more pleasing to the eye
+- Formatting could be improved when viewing on certain devices/browsers
